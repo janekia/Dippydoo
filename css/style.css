@@ -41,7 +41,7 @@ body {
   border-radius: 0.3rem;
 }
 
-.reflow-product {
+/*.reflow-product {
   box-shadow: 0 2px 8px rgba(0,0,0,0.05);
   border-radius: 0.5rem;
   overflow: hidden;
@@ -61,7 +61,7 @@ h1, h2 {
 }
 
 /* Target individual product cards (Reflow uses class "reflow-product") */
-.product-list-wrapper .ref-products {
+/*.product-list-wrapper .ref-products {
   display: flex !important;
   flex-wrap: wrap !important;
   gap: 1rem !important;
@@ -95,7 +95,7 @@ h1, h2 {
 
 
 /* This is your button */
-.ref-button.product-list-add-to-cart {
+/*.ref-button.product-list-add-to-cart {
   margin-top: auto !important;
   background-color: #9c5a4e !important;
   color: white !important;
@@ -148,9 +148,9 @@ h1, h2 {
   display: block;
 }
 .ref-product .ref-image {
-  max-height: 200px; /* adjust as needed */
+  max-height: 200px; /* adjust as needed 
 }
-.product-card p {
+/*.product-card p {
   font-size: 0.9rem;
   color: #5a4a3e;
   margin-bottom: 1rem;
