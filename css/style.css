@@ -268,3 +268,20 @@ h1, h2 {
   background-color: #7e463e !important;
   color: white !important;
 }
+
+.cart-wrapper {
+  background-color: #fef6e1;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 20px auto;
+  max-width: 900px;
+}
+.product-list-wrapper {
+  background-color: #fef6e1;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 20px auto;
+  max-width: 1200px;
+}
